@@ -1,6 +1,6 @@
 # Finall Ng 👋
 
-![Contributors](https://img.shields.io/github/contributors/finallng/finallng?style=plastic)
+![Contributors](https://img.shields.io/github/contributors/finallng/?style=plastic)
 ![Forks](https://img.shields.io/github/forks/finallng/finallng)
 ![Stars](https://img.shields.io/github/stars/finallng/finallng)
 ![Licence](https://img.shields.io/github/license/finallng/finallng)
